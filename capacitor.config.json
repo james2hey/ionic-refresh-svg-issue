@@ -1,6 +1,6 @@
 {
-	"appId": "io.ionic.starter",
-	"appName": "ionic-refresh-svg-issue",
-	"webDir": "build",
-	"bundledWebRuntime": false
+  "appId": "io.ionic.starter",
+  "appName": "ionic-refresh-svg-issue",
+  "webDir": "build",
+  "bundledWebRuntime": false
 }
